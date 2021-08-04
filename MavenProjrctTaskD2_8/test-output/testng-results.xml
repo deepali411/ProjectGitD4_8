@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-04T09:05:31 IST" name="Default suite" finished-at="2021-08-04T09:05:42 IST" duration-ms="10921">
+    <groups>
+    </groups>
+    <test started-at="2021-08-04T09:05:31 IST" name="Default test" finished-at="2021-08-04T09:05:42 IST" duration-ms="10921">
+      <class name="com.mercury.Mercury">
+        <test-method is-config="true" signature="browser()[pri:0, instance:com.mercury.Mercury@a38c7fe]" started-at="2021-08-04T09:05:28 IST" name="browser" finished-at="2021-08-04T09:05:31 IST" duration-ms="2974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method is-config="true" signature="url()[pri:0, instance:com.mercury.Mercury@a38c7fe]" started-at="2021-08-04T09:05:31 IST" name="url" finished-at="2021-08-04T09:05:35 IST" duration-ms="3671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method is-config="true" signature="max()[pri:0, instance:com.mercury.Mercury@a38c7fe]" started-at="2021-08-04T09:05:35 IST" name="max" finished-at="2021-08-04T09:05:35 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- max -->
+        <test-method signature="f()[pri:1, instance:com.mercury.Mercury@a38c7fe]" started-at="2021-08-04T09:05:35 IST" name="f" finished-at="2021-08-04T09:05:38 IST" duration-ms="2886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="login()[pri:2, instance:com.mercury.Mercury@a38c7fe]" started-at="2021-08-04T09:05:38 IST" name="login" finished-at="2021-08-04T09:05:42 IST" duration-ms="4182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.mercury.Mercury@a38c7fe]" started-at="2021-08-04T09:05:42 IST" name="close" finished-at="2021-08-04T09:05:42 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mercury.Mercury -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
